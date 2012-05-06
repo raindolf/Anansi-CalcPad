@@ -32,6 +32,9 @@ class storyPadView(wx.Frame):
                 wx.MessageBox("Oops! We could not download it, please download it from our github.", "Error... Again.", wx.OK)
                 
         if os.path.exists(os.getcwd() + "/aboutIcon.png"):
+            
+            
+            ##Thanks for the Contribution Cody Dostal,Regards. raindolf@oasiswebsoft.com ##
             pass
         else:
             fileLoc = "https://github.com/Seafire-Software/Anansi-CalcPad/raw/master/aboutIcon.png"
