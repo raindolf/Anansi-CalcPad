@@ -9,7 +9,7 @@ import tempfile
 ## Third-Party Libraries ##
 import wx
 import wx.stc
-
+## I have being bitten by a python ##
 SB_INFO = 0
 progVer = 1.1
 
